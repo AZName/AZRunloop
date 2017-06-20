@@ -23,11 +23,6 @@ static CFRunLoopObserverRef  defonserver;
 
 @property (nonatomic, weak)NSTimer *timer;
 
-
-
-
-
-
 @end
 
 @implementation ViewController
